@@ -19,7 +19,7 @@
 - [![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]()
 ### Contato
 
-- danielberbert@hotmail.com
+- danielsilvaberbert@gmail.com
 
 ### linkedin
 - [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-silva-166151241/)
